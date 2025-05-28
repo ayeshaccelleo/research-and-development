@@ -1,9 +1,11 @@
-
+import AreaCharts from "./common-charts/area-charts/AreaCharts";
 
 const CommonCharts = () => {
   return (
-    <div>CommonCharts</div>
-  )
-}
+    <>
+      <AreaCharts />
+    </>
+  );
+};
 
-export default CommonCharts
+export default CommonCharts;
