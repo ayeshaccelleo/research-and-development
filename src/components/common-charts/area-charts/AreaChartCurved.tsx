@@ -33,7 +33,7 @@ const AreaChartCurved = () => {
   return (
     <> <Card>
       <CardHeader>
-        <CardTitle>Area Chart Curved</CardTitle>
+        <CardTitle>Area Chart - Curved</CardTitle>
         <CardDescription>
           Showing total visitors for the last 6 months
         </CardDescription>
